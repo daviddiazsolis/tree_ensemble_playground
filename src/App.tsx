@@ -9,6 +9,7 @@ import DecisionTree from './components/DecisionTree'
 import RandomForest from './components/RandomForest'
 import GradientBoosting from './components/GradientBoosting'
 import BiasVariance from './components/BiasVariance'
+import NotebooksSection from './components/NotebooksSection'
 import References from './components/References'
 import Footer from './components/Footer'
 
@@ -76,6 +77,7 @@ function AppInner() {
         <RandomForest />
         <GradientBoosting />
         <BiasVariance />
+        <NotebooksSection />
         <References />
       </main>
       <Footer />

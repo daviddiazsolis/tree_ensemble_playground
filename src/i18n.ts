@@ -6,7 +6,7 @@ export const translations: Record<Language, Record<string, string>> = {
     langEn: 'EN',
     langEs: 'ES',
     footerCreatedBy: 'Created by',
-    footerRole: '· University Professor, ML/AI/BI',
+    footerRole: 'Ph.D.',
     footerLiveCoded: 'Live-coded for the classroom. Open source.',
 
     heroTitle: 'Tree & Ensemble Playground',
@@ -68,6 +68,11 @@ export const translations: Record<Language, Record<string, string>> = {
     bvExplain: 'Total Error = Bias² + Variance + Irreducible Noise. Simple models have high bias (underfit); complex models have high variance (overfit).',
     bvSweetSpot: 'Sweet spot: complexity = ',
 
+    nbTitle: 'Notebooks & Colab',
+    nbSubtitle: 'Companion Jupyter notebooks for each topic. Open directly in Google Colab — no installation required.',
+    nbTreeTitle: 'Decision Trees & Ensemble Methods',
+    nbTreeDesc: 'Build decision trees, random forests and gradient boosting with sklearn. Explore feature importances, hyperparameter tuning, and the bias-variance tradeoff.',
+
     refTitle: 'References & Further Reading',
     refBook1: 'Breiman, L. (2001). Random Forests. Machine Learning, 45, 5–32.',
     refBook2: 'Friedman, J. H. (2001). Greedy Function Approximation: A Gradient Boosting Machine. Annals of Statistics, 29(5), 1189–1232.',
@@ -78,7 +83,7 @@ export const translations: Record<Language, Record<string, string>> = {
     langEn: 'EN',
     langEs: 'ES',
     footerCreatedBy: 'Creado por',
-    footerRole: '· Profesor Universitario, ML/AI/BI',
+    footerRole: 'Ph.D.',
     footerLiveCoded: 'Programado en vivo para el aula. Código abierto.',
 
     heroTitle: 'Tree & Ensemble Playground',
@@ -139,6 +144,11 @@ export const translations: Record<Language, Record<string, string>> = {
     bvTotalError: 'Error Total',
     bvExplain: 'Error Total = Sesgo² + Varianza + Ruido Irreducible. Los modelos simples tienen alto sesgo (subajuste); los modelos complejos tienen alta varianza (sobreajuste).',
     bvSweetSpot: 'Punto óptimo: complejidad = ',
+
+    nbTitle: 'Notebooks y Colab',
+    nbSubtitle: 'Notebooks de Jupyter como complemento para cada tema. Ábrelos directamente en Google Colab — sin instalación.',
+    nbTreeTitle: 'Árboles de Decisión y Métodos de Ensamble',
+    nbTreeDesc: 'Construye árboles de decisión, random forests y gradient boosting con sklearn. Explora importancia de variables, ajuste de hiperparámetros y el trade-off sesgo-varianza.',
 
     refTitle: 'Referencias y Lecturas Adicionales',
     refBook1: 'Breiman, L. (2001). Random Forests. Machine Learning, 45, 5–32.',
