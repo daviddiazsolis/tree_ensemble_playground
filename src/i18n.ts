@@ -7,7 +7,7 @@ export const translations: Record<Language, Record<string, string>> = {
     langEs: 'ES',
     footerCreatedBy: 'Created by',
     footerRole: 'Ph.D.',
-    footerLiveCoded: 'Live-coded for the classroom. Open source.',
+    footerLiveCoded: 'Live-coded with the help of generative AI for the classroom. Open source.',
 
     heroTitle: 'Tree & Ensemble Playground',
     heroSubtitle: 'Interactive Learning for Decision Trees, Random Forests & Gradient Boosting',
@@ -84,7 +84,7 @@ export const translations: Record<Language, Record<string, string>> = {
     langEs: 'ES',
     footerCreatedBy: 'Creado por',
     footerRole: 'Ph.D.',
-    footerLiveCoded: 'Programado en vivo para el aula. Código abierto.',
+    footerLiveCoded: 'Programado en vivo con la ayuda de IA generativa para el aula. Código abierto.',
 
     heroTitle: 'Tree & Ensemble Playground',
     heroSubtitle: 'Aprendizaje interactivo sobre Árboles de Decisión, Random Forest y Gradient Boosting',
